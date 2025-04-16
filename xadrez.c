@@ -27,5 +27,17 @@ int main()
         r++;
     } while (r <= 8);
 
+    printf("\n\nMovimento do Cavalo: \n");
+    int c2 = 1; // c2 = cavalo (movimento 2)
+    for (int c = 1; c <= 1; c++)
+    { // c = cavalo
+        while (c2 <= 2)
+        {
+            printf("Moveu-se para BAIXO\n");
+            c2++;
+        }
+        printf("Moveu-se para ESQUERDA");
+    }
+
     return 0;
 }
