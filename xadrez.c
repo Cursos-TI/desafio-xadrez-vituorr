@@ -36,7 +36,7 @@ int main()
             printf("Moveu-se para BAIXO\n");
             c2++;
         }
-        printf("Moveu-se para ESQUERDA");
+        printf("Moveu-se para ESQUERDA\n");
     }
 
     return 0;
